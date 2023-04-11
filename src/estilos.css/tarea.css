@@ -1,0 +1,29 @@
+.tarea {
+  margin-top: 1rem;
+  background-color: #a19bc1;
+  font-family: "Roboto", sans-serif;
+  border-radius: 0.5rem;
+  min-width: 160px;
+  min-height: 40px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.tarea-texto {
+  display: flex;
+  color: #f9f5f9;
+  font-weight: bold;
+  margin-left: 0.3rem;
+}
+
+.icono {
+  cursor: pointer;
+  color: #f8efed;
+  margin-left: 3px;
+}
+
+.iconos {
+  margin-left: 5rem;
+  margin-right: 3px;
+}

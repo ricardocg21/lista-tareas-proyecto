@@ -1,0 +1,26 @@
+.formularioTarea {
+  margin-top: 3rem;
+}
+
+.formulario-boton {
+  border: none;
+  cursor: pointer;
+  width: 130px;
+  height: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  background-color: #a19bc1;
+  border-radius: 0 1rem 1rem 0;
+  font-weight: bold;
+  color: #f9f5f9;
+}
+
+.input-texto {
+  width: 200px;
+  height: 60px;
+  text-align: center;
+  border: none;
+  background-color: #f9f5f9;
+  font-family: "Roboto", sans-serif;
+  border-radius: 1rem 0 0 1rem;
+}

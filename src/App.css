@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #55839e;
+}
+
+.contenedor-app {
+  background-color: #b9c3d8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2rem;
+  width: 700px;
+  min-height: 500px;
+  margin: 5rem auto;
+}

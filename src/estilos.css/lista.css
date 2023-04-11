@@ -1,0 +1,13 @@
+.lista-tareas {
+  margin-top: 3rem;
+
+  min-width: 200px;
+  min-height: 100px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0.5rem;
+  color: #f8efed;
+  font-weight: bold;
+}
